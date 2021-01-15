@@ -1,8 +1,8 @@
-java ![20201202134500318](F:\Typora\Nodes\java\IO\20201202134500318.png)
+![io](https://github.com/DefineGF/bookmark/blob/master/IO/io_d.png)
 
 ​											**IO流**
 
- ![20200922220641678](F:\Typora\Nodes\java\IO\20200922220641678.png)
+![io_d](https://github.com/DefineGF/bookmark/blob/master/IO/IO.md)
 
 ​										**IO对象**
 
@@ -46,7 +46,7 @@ java ![20201202134500318](F:\Typora\Nodes\java\IO\20201202134500318.png)
     bis.close();
     ```
 
- ![2020092115091457](F:\Typora\Nodes\java\IO\2020092115091457.png)
+ ![inputstream](https://github.com/DefineGF/bookmark/blob/master/IO/InputStream.png)
 
    - InputStream：抽象类，不能实例化；
    - FileInputStream：对文件进行读取操作；
@@ -123,7 +123,7 @@ java ![20201202134500318](F:\Typora\Nodes\java\IO\20201202134500318.png)
     br.close();
     ```
 
- ![20200921161501573](F:\Typora\Nodes\java\IO\20200921161501573.png)
+ ![reader](https://github.com/DefineGF/bookmark/blob/master/IO/reader.png)
 
 - InputStreamReader：从字节流到字符流的桥梁；构造器传入InputStream
 
