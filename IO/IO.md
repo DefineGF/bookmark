@@ -48,13 +48,13 @@ java ![20201202134500318](F:\Typora\Nodes\java\IO\20201202134500318.png)
 
  ![2020092115091457](F:\Typora\Nodes\java\IO\2020092115091457.png)
 
-- InputStream：抽象类，不能实例化；
-- FileInputStream：对文件进行读取操作；
-- PipedInputStream：管道字节输入流，多线程间的管道通信；
-- ByteArrayInputStream：从字节数组（byte[]）中以字节为单位读取；
-- FilterInputStream：对节点类进行封装；
-- DataInputStream：允许应用程序以与机器无关方式从底层输入流中读取基本java数据卡类型；
-- ObjectInputStream：对象输入流，用来提供对基本数据或者对象的持久存储；
+   - InputStream：抽象类，不能实例化；
+   - FileInputStream：对文件进行读取操作；
+   - PipedInputStream：管道字节输入流，多线程间的管道通信；
+   - ByteArrayInputStream：从字节数组（byte[]）中以字节为单位读取；
+   - FilterInputStream：对节点类进行封装；
+   - DataInputStream：允许应用程序以与机器无关方式从底层输入流中读取基本java数据卡类型；
+   - ObjectInputStream：对象输入流，用来提供对基本数据或者对象的持久存储；
 
 
 
@@ -156,4 +156,6 @@ java ![20201202134500318](F:\Typora\Nodes\java\IO\20201202134500318.png)
 - StringReader：从String中读取数据的介质流；
 
 
+
+### 相关方法介绍
 
