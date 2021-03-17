@@ -1,5 +1,9 @@
-### 日常笔记
-+ Network：有关网络的代码
-+ C++ 学习笔记
-+ Java 学习笔记
-+ Android 学习笔记
+##### 目录项
+
+- C++：C++相关笔记
+- Essays：计算机相关笔记
+- Images：图片暂存
+- Java：java相关笔记
+- Network：计算机网络笔记
+- android：android相关笔记
+
